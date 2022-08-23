@@ -10,6 +10,3 @@ print(f'O seu nome com todas as letras maiusculas: {nome_c.upper()}')
 print(f'O seu nome com todas as letras minusculas: {nome_c.lower()}')
 print(f'O seu nome todo tem {len(nome_c.replace(" ",""))} letras') # método que retira os espaços da frase, e faz a contagem
 print(f'O seu primeiro nome é {nome_d[0]} que tem {len(nome_d[0])} letras') # verifica o tamanho de cada nome, conforme o indice da lista
-
-# print(f'O seu nome todo tem {len(nome_c) - nome_c.count(" ")} letras') # método que conta todas as letras e depois subtrai a quantidade de espaços
-# print(f'O seu primeiro nome é tem {(nome_c.find(" "))} letras') # metodo simples de contagem com referencia no espaco

@@ -1,14 +1,13 @@
 # Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
 
 # Realizei inicialmente com o laço for por achar mais prático.
-'''numero = int(input('Digite um número: '))
+"""numero = int(input('Digite um número: '))
 print('A tabuada de {} é: '.format(numero))
 
 for i in range(1, 11):
     tabuada = i * numero
-    print(f'{numero} x {i} = {tabuada}')'''
+    print(f'{numero} x {i} = {tabuada}')"""
 
-# Tentei realizar como se não soubesse usar o laço for
 # Formatação confome vi na vídeo aula
 
 numero = int(input('Digite um número: '))

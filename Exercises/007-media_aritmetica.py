@@ -6,4 +6,3 @@ n2 = float(input('Digite a segunda nota: '))
 media = (n1 + n2) / 2
 
 print(f'O nosso aluno que tirou {n1} na primeira prova e {n2} na segunda prova, obteve a média de {media}.')
-

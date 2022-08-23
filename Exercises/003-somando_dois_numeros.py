@@ -14,5 +14,3 @@ print(f'O resultado da divisão entre os números {n1} e {n2}, é {divisao}.')
 
 multiplicacao = n1 * n2
 print(f'O resultado da multiplicação entre os números {n1} e {n2}, é {multiplicacao}.')
-
-

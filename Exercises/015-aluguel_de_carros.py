@@ -12,5 +12,3 @@ print('A base de preço é:\n'
 pag = (dias * 60) + (km_rodado * 0.15)
 print(f'O cliente rodou {km_rodado:.2f}KM, e usou o veículo por {dias:.0f} dias.\n'
       f'O preço final do aluguel é de R${pag:.2f}')
-
-

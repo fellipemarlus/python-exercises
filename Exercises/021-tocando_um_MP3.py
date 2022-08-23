@@ -2,5 +2,3 @@
 
 import webbrowser
 webbrowser.open("mission-passed-sound.mp3")
-
-
